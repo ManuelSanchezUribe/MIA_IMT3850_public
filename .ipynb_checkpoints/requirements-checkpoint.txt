@@ -4,4 +4,4 @@ scipy==1.14.1
 matplotlib==3.9.2
 latexifier==1.0.8
 soundfile==0.13.1
-scikit-klearn==1.6.1
+scikit-learn==1.6.1
