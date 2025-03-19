@@ -1,4 +1,10 @@
-# MIA_IMT3850_public
+# MIA
+# Fundamentos Matematicos para Inteligencia Artificial
+# IMT3850 (public)
+
+## Profesor: Manuel A. Sanchez
+## Instituto de Ingenieria Matematica y Computacinal
+## Pontificia Universidad Catolica de Chile
 
 
 ### Jupyter notebooks
