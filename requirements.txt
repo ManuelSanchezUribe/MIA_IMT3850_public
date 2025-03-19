@@ -5,4 +5,4 @@ matplotlib==3.9.2
 latexifier==1.0.8
 soundfile==0.13.1
 scikit-learn==1.6.1
-opencv-contrib-python==4.11.0
+opencv-contrib-python==4.11.0.86
