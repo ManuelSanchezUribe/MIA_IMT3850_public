@@ -14,3 +14,5 @@
 - Clase 3 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana3%2FAlgebraLineal3.ipynb)
 - Clase 4 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana4%2FAlgebraLineal4.ipynb)
 - Clase 6 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana6%2FProbabilidad+y+Estadistica.ipynb)
+- Clase 7 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana7%2FSemana7.ipynb)
+- Clase 8 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana8%2FSemana8.ipynb)
